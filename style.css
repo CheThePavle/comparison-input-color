@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.container{
+    padding: 20px 10px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+#inputDiv{
+    padding: 10px;
+    background-color: #f3f3f3;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.correct{
+    display: inline-block
+}
+.notCorrect{
+    display: inline-block;
+    color: red; 
+}
